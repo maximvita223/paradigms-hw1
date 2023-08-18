@@ -7,4 +7,4 @@ for num in li:
     if min > num:
         min = num
 
-print(min)
+print(f"Наименьшее число в списке  {li} =  {min}")

@@ -8,4 +8,4 @@ for num in range(n):
     else:
         sum += num
         num += 1
-print(sum)
+print(f"Сумма четных чисел от 1 до {n} = {sum}")
